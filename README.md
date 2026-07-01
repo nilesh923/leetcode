@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nilesh923/leetocde/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/nilesh923/leetocde/tree/master/0058-length-of-last-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nilesh923/leetocde/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nilesh923/leetocde/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
