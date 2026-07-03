@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nilesh923/leetocde/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nilesh923/leetocde/tree/master/0058-length-of-last-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nilesh923/leetocde/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1598-crawler-log-folder](https://github.com/nilesh923/leetocde/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/nilesh923/leetocde/tree/master/2000-reverse-prefix-of-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nilesh923/leetocde/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Stack
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nilesh923/leetocde/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nilesh923/leetocde/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1598-crawler-log-folder](https://github.com/nilesh923/leetocde/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/nilesh923/leetocde/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/nilesh923/leetocde/tree/master/2000-reverse-prefix-of-word) |
+## Array
+|  |
+| ------- |
+| [1598-crawler-log-folder](https://github.com/nilesh923/leetocde/tree/master/1598-crawler-log-folder) |
 <!---LeetCode Topics End-->
