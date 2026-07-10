@@ -27,6 +27,7 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nilesh923/leetocde/tree/master/0070-climbing-stairs) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nilesh923/leetocde/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
