@@ -16,6 +16,7 @@ QUestion solved by me on the leetcode platform
 | [1598-crawler-log-folder](https://github.com/nilesh923/leetocde/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/nilesh923/leetocde/tree/master/2000-reverse-prefix-of-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nilesh923/leetocde/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/nilesh923/leetocde/tree/master/3612-process-string-with-special-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -44,4 +45,8 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [1598-crawler-log-folder](https://github.com/nilesh923/leetocde/tree/master/1598-crawler-log-folder) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/nilesh923/leetocde/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
