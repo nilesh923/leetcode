@@ -28,6 +28,7 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nilesh923/leetocde/tree/master/0070-climbing-stairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nilesh923/leetocde/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nilesh923/leetocde/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -49,4 +50,8 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/nilesh923/leetocde/tree/master/3612-process-string-with-special-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/nilesh923/leetocde/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
