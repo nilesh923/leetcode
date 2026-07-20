@@ -28,6 +28,7 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nilesh923/leetocde/tree/master/0070-climbing-stairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nilesh923/leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nilesh923/leetocde/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nilesh923/leetocde/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -46,6 +47,7 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [1598-crawler-log-folder](https://github.com/nilesh923/leetocde/tree/master/1598-crawler-log-folder) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nilesh923/leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
@@ -53,5 +55,6 @@ QUestion solved by me on the leetcode platform
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/nilesh923/leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nilesh923/leetocde/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
