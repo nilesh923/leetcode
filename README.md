@@ -28,6 +28,7 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nilesh923/leetocde/tree/master/0070-climbing-stairs) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nilesh923/leetocde/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nilesh923/leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nilesh923/leetocde/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nilesh923/leetocde/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
