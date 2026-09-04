@@ -49,11 +49,13 @@ QUestion solved by me on the leetcode platform
 | ------- |
 | [1598-crawler-log-folder](https://github.com/nilesh923/leetocde/tree/master/1598-crawler-log-folder) |
 | [1920-build-array-from-permutation](https://github.com/nilesh923/leetocde/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/nilesh923/leetocde/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nilesh923/leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/nilesh923/leetocde/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/nilesh923/leetocde/tree/master/1929-concatenation-of-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/nilesh923/leetocde/tree/master/3612-process-string-with-special-operations-i) |
 ## Number Theory
 |  |
