@@ -47,6 +47,7 @@ QUestion solved by me on the leetcode platform
 ## Array
 |  |
 | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/nilesh923/leetocde/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/nilesh923/leetocde/tree/master/1480-running-sum-of-1d-array) |
 | [1598-crawler-log-folder](https://github.com/nilesh923/leetocde/tree/master/1598-crawler-log-folder) |
 | [1920-build-array-from-permutation](https://github.com/nilesh923/leetocde/tree/master/1920-build-array-from-permutation) |
