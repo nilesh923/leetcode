@@ -47,6 +47,7 @@ QUestion solved by me on the leetcode platform
 ## Array
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/nilesh923/leetocde/tree/master/1480-running-sum-of-1d-array) |
 | [1598-crawler-log-folder](https://github.com/nilesh923/leetocde/tree/master/1598-crawler-log-folder) |
 | [1920-build-array-from-permutation](https://github.com/nilesh923/leetocde/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nilesh923/leetocde/tree/master/1929-concatenation-of-array) |
@@ -62,4 +63,8 @@ QUestion solved by me on the leetcode platform
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nilesh923/leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nilesh923/leetocde/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/nilesh923/leetocde/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
