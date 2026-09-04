@@ -7,6 +7,7 @@ class Solution {
         for(int j=0;j<candies.length;j++){
             if(temp<candies[j] ){
                 answer=false;
+                break;
             }
         }
         extra.add(answer);
