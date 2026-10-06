@@ -84,4 +84,8 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nilesh923/leetocde/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
