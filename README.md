@@ -49,10 +49,12 @@ QUestion solved by me on the leetcode platform
 | [0125-valid-palindrome](https://github.com/nilesh923/leetocde/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nilesh923/leetocde/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/nilesh923/leetocde/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/nilesh923/leetocde/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nilesh923/leetocde/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/nilesh923/leetocde/tree/master/1480-running-sum-of-1d-array) |
 | [1598-crawler-log-folder](https://github.com/nilesh923/leetocde/tree/master/1598-crawler-log-folder) |
@@ -78,4 +80,8 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/nilesh923/leetocde/tree/master/0680-valid-palindrome-ii) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
