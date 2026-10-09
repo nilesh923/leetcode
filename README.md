@@ -52,6 +52,7 @@ QUestion solved by me on the leetcode platform
 | [0680-valid-palindrome-ii](https://github.com/nilesh923/leetocde/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/nilesh923/leetocde/tree/master/2000-reverse-prefix-of-word) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nilesh923/leetocde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ QUestion solved by me on the leetcode platform
 | [1920-build-array-from-permutation](https://github.com/nilesh923/leetocde/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nilesh923/leetocde/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nilesh923/leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nilesh923/leetocde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -87,8 +89,13 @@ QUestion solved by me on the leetcode platform
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nilesh923/leetocde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/nilesh923/leetocde/tree/master/0175-combine-two-tables) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nilesh923/leetocde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
