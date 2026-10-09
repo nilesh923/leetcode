@@ -6,6 +6,7 @@ QUestion solved by me on the leetcode platform
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nilesh923/leetocde/tree/master/0001-two-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nilesh923/leetocde/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -56,6 +57,7 @@ QUestion solved by me on the leetcode platform
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nilesh923/leetocde/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nilesh923/leetocde/tree/master/1431-kids-with-the-greatest-number-of-candies) |
