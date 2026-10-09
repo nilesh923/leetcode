@@ -5,11 +5,10 @@ class Solution {
     while(i< j){
         if(nums[i]+nums[j]== target){
             return new int[]{i+1,j+1};
-        }
-        if(nums[i] +nums[j]> target){
+        } else if(nums[i] +nums[j]> target){
             j--;
         }
-        if(nums[i]+nums[j]< target){
+        else {
             i++;
         }
 
