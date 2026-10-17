@@ -16,6 +16,7 @@ QUestion solved by me on the leetcode platform
 | [0125-valid-palindrome](https://github.com/nilesh923/leetocde/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nilesh923/leetocde/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nilesh923/leetocde/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/nilesh923/leetocde/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nilesh923/leetocde/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/nilesh923/leetocde/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nilesh923/leetocde/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -58,6 +59,7 @@ QUestion solved by me on the leetcode platform
 | [0151-reverse-words-in-a-string](https://github.com/nilesh923/leetocde/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nilesh923/leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/nilesh923/leetocde/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/nilesh923/leetocde/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nilesh923/leetocde/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/nilesh923/leetocde/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
