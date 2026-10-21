@@ -18,6 +18,7 @@ class Solution {
       while(fast!= 1){
         slow = Sumofsqofdigit(slow);
         fast = Sumofsqofdigit(Sumofsqofdigit(fast));
+        //agr ma yeh fast ==1 wali line slow == fast wala ka likha ta hu toh dikkat aaya gii n= 10 ka case ma aur haa yeh hum isliye likhna hai kyuki agr fast 1 ho jaat Hi toh hum stop kr da ga na next calcuation nahi kara ga 
         if(fast ==1){
             return  true;
         }
