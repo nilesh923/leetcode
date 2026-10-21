@@ -65,6 +65,7 @@ QUestion solved by me on the leetcode platform
 | [0541-reverse-string-ii](https://github.com/nilesh923/leetocde/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nilesh923/leetocde/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/nilesh923/leetocde/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/nilesh923/leetocde/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/nilesh923/leetocde/tree/master/2000-reverse-prefix-of-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nilesh923/leetocde/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -134,6 +135,7 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nilesh923/leetocde/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0876-middle-of-the-linked-list](https://github.com/nilesh923/leetocde/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
