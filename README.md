@@ -7,6 +7,7 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nilesh923/leetocde/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/nilesh923/leetocde/tree/master/0202-happy-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nilesh923/leetocde/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -36,6 +37,7 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nilesh923/leetocde/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/nilesh923/leetocde/tree/master/0202-happy-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nilesh923/leetocde/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nilesh923/leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nilesh923/leetocde/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -58,6 +60,7 @@ QUestion solved by me on the leetcode platform
 | [0125-valid-palindrome](https://github.com/nilesh923/leetocde/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nilesh923/leetocde/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nilesh923/leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/nilesh923/leetocde/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/nilesh923/leetocde/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/nilesh923/leetocde/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nilesh923/leetocde/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -131,4 +134,8 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nilesh923/leetocde/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/nilesh923/leetocde/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
