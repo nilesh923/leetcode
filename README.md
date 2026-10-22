@@ -63,6 +63,7 @@ QUestion solved by me on the leetcode platform
 | [0151-reverse-words-in-a-string](https://github.com/nilesh923/leetocde/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nilesh923/leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/nilesh923/leetocde/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/nilesh923/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nilesh923/leetocde/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/nilesh923/leetocde/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nilesh923/leetocde/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -80,6 +81,7 @@ QUestion solved by me on the leetcode platform
 | [0075-sort-colors](https://github.com/nilesh923/leetocde/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nilesh923/leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/nilesh923/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nilesh923/leetocde/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/nilesh923/leetocde/tree/master/1480-running-sum-of-1d-array) |
@@ -124,6 +126,7 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nilesh923/leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/nilesh923/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nilesh923/leetocde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
 |  |
@@ -144,4 +147,13 @@ QUestion solved by me on the leetcode platform
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nilesh923/leetocde/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/nilesh923/leetocde/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/nilesh923/leetocde/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nilesh923/leetocde/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nilesh923/leetocde/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
