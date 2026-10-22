@@ -35,6 +35,7 @@ QUestion solved by me on the leetcode platform
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nilesh923/leetocde/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/nilesh923/leetocde/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/nilesh923/leetocde/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nilesh923/leetocde/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ QUestion solved by me on the leetcode platform
 | [0876-middle-of-the-linked-list](https://github.com/nilesh923/leetocde/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/nilesh923/leetocde/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nilesh923/leetocde/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/nilesh923/leetocde/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nilesh923/leetocde/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
@@ -145,6 +147,7 @@ QUestion solved by me on the leetcode platform
 | [0141-linked-list-cycle](https://github.com/nilesh923/leetocde/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/nilesh923/leetocde/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nilesh923/leetocde/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nilesh923/leetocde/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
