@@ -42,6 +42,7 @@ QUestion solved by me on the leetcode platform
 | [0070-climbing-stairs](https://github.com/nilesh923/leetocde/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/nilesh923/leetocde/tree/master/0202-happy-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nilesh923/leetocde/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nilesh923/leetocde/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nilesh923/leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nilesh923/leetocde/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nilesh923/leetocde/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -88,6 +89,7 @@ QUestion solved by me on the leetcode platform
 | [0287-find-the-duplicate-number](https://github.com/nilesh923/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/nilesh923/leetocde/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nilesh923/leetocde/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nilesh923/leetocde/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/nilesh923/leetocde/tree/master/1480-running-sum-of-1d-array) |
 | [1598-crawler-log-folder](https://github.com/nilesh923/leetocde/tree/master/1598-crawler-log-folder) |
