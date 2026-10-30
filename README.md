@@ -88,6 +88,7 @@ QUestion solved by me on the leetcode platform
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nilesh923/leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nilesh923/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/nilesh923/leetocde/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/nilesh923/leetocde/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nilesh923/leetocde/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nilesh923/leetocde/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -111,6 +112,7 @@ QUestion solved by me on the leetcode platform
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/nilesh923/leetocde/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/nilesh923/leetocde/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
