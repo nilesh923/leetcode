@@ -50,6 +50,7 @@ QUestion solved by me on the leetcode platform
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nilesh923/leetocde/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/nilesh923/leetocde/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
@@ -85,6 +86,7 @@ QUestion solved by me on the leetcode platform
 | [0015-3sum](https://github.com/nilesh923/leetocde/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/nilesh923/leetocde/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nilesh923/leetocde/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/nilesh923/leetocde/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nilesh923/leetocde/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nilesh923/leetocde/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/nilesh923/leetocde/tree/master/0485-max-consecutive-ones) |
